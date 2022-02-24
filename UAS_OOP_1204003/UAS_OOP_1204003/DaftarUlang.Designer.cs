@@ -99,7 +99,7 @@ namespace UAS_OOP_1204003
             // label6
             // 
             this.label6.AutoSize = true;
-            this.label6.Location = new System.Drawing.Point(52, 215);
+            this.label6.Location = new System.Drawing.Point(52, 248);
             this.label6.Name = "label6";
             this.label6.Size = new System.Drawing.Size(82, 13);
             this.label6.TabIndex = 5;
@@ -108,7 +108,7 @@ namespace UAS_OOP_1204003
             // label7
             // 
             this.label7.AutoSize = true;
-            this.label7.Location = new System.Drawing.Point(52, 252);
+            this.label7.Location = new System.Drawing.Point(52, 285);
             this.label7.Name = "label7";
             this.label7.Size = new System.Drawing.Size(60, 13);
             this.label7.TabIndex = 6;
@@ -150,7 +150,7 @@ namespace UAS_OOP_1204003
             // textBox5
             // 
             this.textBox5.Enabled = false;
-            this.textBox5.Location = new System.Drawing.Point(154, 212);
+            this.textBox5.Location = new System.Drawing.Point(154, 245);
             this.textBox5.Name = "textBox5";
             this.textBox5.Size = new System.Drawing.Size(129, 20);
             this.textBox5.TabIndex = 11;
@@ -158,7 +158,7 @@ namespace UAS_OOP_1204003
             // textBox6
             // 
             this.textBox6.Enabled = false;
-            this.textBox6.Location = new System.Drawing.Point(154, 249);
+            this.textBox6.Location = new System.Drawing.Point(154, 282);
             this.textBox6.Name = "textBox6";
             this.textBox6.Size = new System.Drawing.Size(129, 20);
             this.textBox6.TabIndex = 12;
@@ -178,7 +178,7 @@ namespace UAS_OOP_1204003
             // radioButton2
             // 
             this.radioButton2.AutoSize = true;
-            this.radioButton2.Location = new System.Drawing.Point(192, 176);
+            this.radioButton2.Location = new System.Drawing.Point(154, 199);
             this.radioButton2.Name = "radioButton2";
             this.radioButton2.Size = new System.Drawing.Size(32, 17);
             this.radioButton2.TabIndex = 14;
@@ -190,7 +190,7 @@ namespace UAS_OOP_1204003
             // radioButton3
             // 
             this.radioButton3.AutoSize = true;
-            this.radioButton3.Location = new System.Drawing.Point(230, 176);
+            this.radioButton3.Location = new System.Drawing.Point(154, 222);
             this.radioButton3.Name = "radioButton3";
             this.radioButton3.Size = new System.Drawing.Size(32, 17);
             this.radioButton3.TabIndex = 15;
@@ -201,7 +201,7 @@ namespace UAS_OOP_1204003
             // 
             // button1
             // 
-            this.button1.Location = new System.Drawing.Point(127, 300);
+            this.button1.Location = new System.Drawing.Point(127, 327);
             this.button1.Name = "button1";
             this.button1.Size = new System.Drawing.Size(75, 23);
             this.button1.TabIndex = 16;
@@ -211,7 +211,7 @@ namespace UAS_OOP_1204003
             // 
             // button2
             // 
-            this.button2.Location = new System.Drawing.Point(208, 300);
+            this.button2.Location = new System.Drawing.Point(208, 327);
             this.button2.Name = "button2";
             this.button2.Size = new System.Drawing.Size(75, 23);
             this.button2.TabIndex = 17;
